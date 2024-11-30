@@ -1,0 +1,51 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS and Linux
+.DS_Store
+*.swp
+
+# Logs and databases
+*.log
+*.sqlite3
+app.log
+
+# Python packaging
+*.egg
+*.egg-info/
+dist/
+build/
+*.wheel
+
+# VSCode settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Coverage reports
+.coverage
+htmlcov/
+*.cover
+*.coverage.*
+.cache
+
+# Test results
+pytest_cache/
+.tox/
+
+# Secrets
+*.pem
+*.key
+
+SevenApps_Take_Home_Study_Case.pdf
