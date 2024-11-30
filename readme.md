@@ -202,7 +202,7 @@ Common errors and their solutions:
 ## 📞 Contact
 
 - Project Owner: [Linkedin](https://www.linkedin.com/in/mustafakorukmez/), [GitHub](https://github.com/MustafaKorukmez)
-- Project Link: [GitHub](https://github.com/username/fastapi_llm)
+- Project Link: [GitHub](https://github.com/MustafaKorukmez/ask_my_pdf)
 
 ## 🙏 Acknowledgements
 
