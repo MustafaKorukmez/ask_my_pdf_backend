@@ -24,8 +24,8 @@ This project is a FastAPI application that allows you to upload PDF files, analy
 ### 1. Clone the Project:
 
 ```bash
-git clone https://github.com/MustafaKorukmez/fastapi_llm.git
-cd fastapi_llm
+git clone https://github.com/MustafaKorukmez/ask_my_pdf_backend.git
+cd ask_my_pdf_backend
 ```
 
 ### 2. Create and Activate a Virtual Environment:
@@ -107,7 +107,7 @@ Used to ask questions about the uploaded PDF content.
 ## 📁 Project Structure
 
 ```
-fastapi_llm/
+ask_my_pdf_backend/
 ├── app/
 │   ├── __init__.py
 │   ├── main.py
@@ -202,7 +202,7 @@ Common errors and their solutions:
 ## 📞 Contact
 
 - Project Owner: [Linkedin](https://www.linkedin.com/in/mustafakorukmez/), [GitHub](https://github.com/MustafaKorukmez)
-- Project Link: [GitHub](https://github.com/MustafaKorukmez/ask_my_pdf)
+- Project Link: [GitHub](https://github.com/MustafaKorukmez/ask_my_pdf_backend)
 
 ## 🙏 Acknowledgements
 
